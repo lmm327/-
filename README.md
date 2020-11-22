@@ -74,7 +74,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606024095860&di=4df708074daa95d6e60d9e12fdea6e3d&imgtype=0&src=http%3A%2F%2Fi2.sinaimg.cn%2FIT%2Fh%2F2010-02-05%2F1265331984_wVDOFO.jpg" width="70%" height="70%">     <br> <div align=center>长城386</div>
+      <td ><div align=center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606024095860&di=4df708074daa95d6e60d9e12fdea6e3d&imgtype=0&src=http%3A%2F%2Fi2.sinaimg.cn%2FIT%2Fh%2F2010-02-05%2F1265331984_wVDOFO.jpg" width="60%" height="60%">     <br> <div align=center>长城386</div>
   </tr>   
 </table>
 </div>
@@ -114,7 +114,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606025273942&di=daffd8c7ae53c14f9d1e19fc0f33670f&imgtype=0&src=http%3A%2F%2Fimage.doit.com.cn%2Fuploadpic%2F2009%2F0608%2F4753881.jpg"></div>
+      <td ><div align=center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606025273942&di=daffd8c7ae53c14f9d1e19fc0f33670f&imgtype=0&src=http%3A%2F%2Fimage.doit.com.cn%2Fuploadpic%2F2009%2F0608%2F4753881.jpg" width="70%" height="70%"></div>
        <div align=center>曙光1000</div>
   </tr>   
 </table>
@@ -194,4 +194,5 @@
 [参考文献：关于维护互联网安全的决定](http://www.npc.gov.cn/wxzl/gongbao/2001-03/05/content_5131101.htm)<br>
 [参考文献：女娲计划](https://nvwa.org/index_zh.php)<br>
 [参考文献：中国正式被国际上承认是接入Internet的国家](https://www.uc23.net/lishi/70753.html)<br>
-[参考文献：](http://www.360doc.com/content/17/1005/17/30123241_692425481.shtml)<br>
+[参考文献：中国计算机发展史](http://www.360doc.com/content/17/1005/17/30123241_692425481.shtml)<br>
+[参考文献：中国计算机发展史](https://wenku.baidu.com/view/165b15be30b765ce0508763231126edb6e1a7640.html)
