@@ -106,7 +106,7 @@
   <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/386.jpg" width="40%" height="40%></div>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/386.jpg" width="40%" height="40%"></div>
        <div align=center>联想386</div>
       <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/486.jpg"></div>
        <div align=center>联想486</div>
