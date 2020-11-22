@@ -1,12 +1,12 @@
 # 中国计算机历史
 
-* [1956-1960年](#1956-1960年)   &emsp;&emsp;&emsp;&emsp;[1961-1965年](#1961-1965年)<br>
-* [1966-1970年](#1966-1970年)   &emsp;&emsp;&emsp;&emsp;[1971-1975年](#1971-1975年)<br>
-[1976-1980年](#1976-1980年)   &emsp;&emsp;&emsp;&emsp;[1981-1985年](#1981-1985年)<br>
-[1986-1990年](#1986-1990年)   &emsp;&emsp;&emsp;&emsp;[1991-1995年](#1991-1995年)<br>
-[1996-2000年](#1996-2000年)   &emsp;&emsp;&emsp;&emsp;[2001-2005年](#2001-2005年)<br>
-[2006-现在](#2006-现在)<br>
-[参考文献](#参考文献)<br>
+* [1956-1960年](#1956-1960年)   &emsp;&emsp;&emsp;&emsp;* [1961-1965年](#1961-1965年)<br>
+* [1966-1970年](#1966-1970年)   &emsp;&emsp;&emsp;&emsp;* [1971-1975年](#1971-1975年)<br>
+* [1976-1980年](#1976-1980年)   &emsp;&emsp;&emsp;&emsp;* [1981-1985年](#1981-1985年)<br>
+* [1986-1990年](#1986-1990年)   &emsp;&emsp;&emsp;&emsp;* [1991-1995年](#1991-1995年)<br>
+* [1996-2000年](#1996-2000年)   &emsp;&emsp;&emsp;&emsp;* [2001-2005年](#2001-2005年)<br>
+* [2006-现在](#2006-现在)<br>
+* [参考文献](#参考文献)<br>
 
 ## 1956-1960年
 <div align=center>
@@ -185,9 +185,9 @@
 
 
 ## 参考文献
-[参考文献：计算机保护条例](https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B/1798797?fr=aladdin)<br>
-[参考文献：关于维护互联网安全的决定](http://www.npc.gov.cn/wxzl/gongbao/2001-03/05/content_5131101.htm)<br>
-[参考文献：女娲计划](https://nvwa.org/index_zh.php)<br>
-[参考文献：中国正式被国际上承认是接入Internet的国家](https://www.uc23.net/lishi/70753.html)<br>
-[参考文献：中国计算机发展史](http://www.360doc.com/content/17/1005/17/30123241_692425481.shtml)<br>
-[参考文献：中国计算机发展史](https://wenku.baidu.com/view/165b15be30b765ce0508763231126edb6e1a7640.html)
+*[参考文献：计算机保护条例](https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E4%BF%9D%E6%8A%A4%E6%9D%A1%E4%BE%8B/1798797?fr=aladdin)<br>
+*[参考文献：关于维护互联网安全的决定](http://www.npc.gov.cn/wxzl/gongbao/2001-03/05/content_5131101.htm)<br>
+*[参考文献：女娲计划](https://nvwa.org/index_zh.php)<br>
+*[参考文献：中国正式被国际上承认是接入Internet的国家](https://www.uc23.net/lishi/70753.html)<br>
+*[参考文献：中国计算机发展史](http://www.360doc.com/content/17/1005/17/30123241_692425481.shtml)<br>
+*[参考文献：中国计算机发展史](https://wenku.baidu.com/view/165b15be30b765ce0508763231126edb6e1a7640.html)
