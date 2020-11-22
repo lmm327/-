@@ -242,7 +242,7 @@
 [参考文献：女娲计划](https://nvwa.org/index_zh.php)<br>
 [参考文献：中国正式被国际上承认是接入Internet的国家](https://www.uc23.net/lishi/70753.html)<br>
 [参考文献：中国计算机发展史](http://www.360doc.com/content/17/1005/17/30123241_692425481.shtml)<br>
-[参考文献：中国计算机发展史](https://wenku.baidu.com/view/165b15be30b765ce0508763231126edb6e1a7640.html)
-[参考文献：中国计算机史](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%B2/1693030?fr=aladdin "中国计算机史")
-[参考文献：中国计算机发展史 修订版](https://www.renrendoc.com/paper/87710904.html "中国计算机发展史 修订版")
-[参考文献：中国计算机发展简史](http://blog.sciencenet.cn/blog-336909-1003510.html "中国计算机发展简史")
+[参考文献：中国计算机发展史](https://wenku.baidu.com/view/165b15be30b765ce0508763231126edb6e1a7640.html)<br>
+[参考文献：中国计算机史](https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%8F%B2/1693030?fr=aladdin "中国计算机史")<br>
+[参考文献：中国计算机发展史 修订版](https://www.renrendoc.com/paper/87710904.html "中国计算机发展史 修订版")<br>
+[参考文献：中国计算机发展简史](http://blog.sciencenet.cn/blog-336909-1003510.html "中国计算机发展简史")<br>
