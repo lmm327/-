@@ -17,17 +17,18 @@
 
 ## 1956-1960年
 <table>
-  <tr>
+  <tr><div border margin padding=0>
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png ">
-      1956
+      <br>1956
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png">
-       1957
+       <br>1957
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png">
-       1958
+      <br> 1958
        <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png">
-       1959
+       <br>1959
       <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/1.png">
-       1960
+      <br> 1960
+        </div>
   </tr>   
 </table>
 <table>
