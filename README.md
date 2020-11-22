@@ -144,7 +144,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="http://www.cnpcba.cn/article/jbkjwbxlxs.html"><br>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/%E9%BE%99%E8%8A%AF.jpg"><br>
         <div align=center>龙芯芯片</div>
   </tr>   
 </table>
@@ -155,7 +155,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="http://news.idcquan.com/news/136219.shtml"><br>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/%E8%81%94%E6%83%B3%E7%9A%84%E6%B7%B1%E8%85%BE6800%E8%B6%85%E7%BA%A7%E8%AE%A1%E7%AE%97%E6%9C%BA.png"><br>
         <div align=center>联想的深腾6800超级计算机</div>
   </tr>   
 </table>
