@@ -17,7 +17,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png ">
+      <td ><center><img src="https://raw.githubusercontent.com/lmm327/hello/main/103.png " width=251 height=251>
        <br><div align=center>103机</div>
   </tr>   
 </table>
