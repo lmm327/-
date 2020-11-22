@@ -66,7 +66,7 @@
  <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://bkimg.cdn.bcebos.com/pic/35a85edf8db1cb133fd020addd54564e93584bd6?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2U3Mg==,g_7,xp_5,yp_5"></div>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/%E4%B8%8A%E4%B8%96%E7%BA%AA%E4%B8%83%E5%8D%81%E5%B9%B4%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA.png"></div>
        <div align=center>上世纪七十年代计算机</div>
   </tr>   
 </table>
