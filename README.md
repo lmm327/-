@@ -168,7 +168,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/119.png "><br>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/tianhe2.png"><br>
         <div align=center>天河二号</div>
   </tr>   
 </table>
@@ -177,7 +177,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="http://app.wxrb.com/api.php?c=news&a=viewnewspage&newsid=1366880&from=wxrb.com"><br>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/%E7%A5%9E%E5%A8%81%E5%A4%AA%E6%B9%96%E4%B9%8B%E5%85%89.jpg"><br>
         <div align=center>“神威·太湖之光”超级计算机</div>
   </tr>   
 </table>
