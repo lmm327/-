@@ -128,7 +128,7 @@
  <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606025658938&di=70940f418346827f40143babac988c9d&imgtype=0&src=http%3A%2F%2Fimage3.it168.com%2F2010%2F4%2F23%2Fe0afe82c-0b86-4a4c-b344-3771e3f09fe9.jpg"></div>
+      <td ><div align=center><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1606025658938&di=70940f418346827f40143babac988c9d&imgtype=0&src=http%3A%2F%2Fimage3.it168.com%2F2010%2F4%2F23%2Fe0afe82c-0b86-4a4c-b344-3771e3f09fe9.jpg" width="70" height="70"></div>
        <div align=center>联想PC机</div>
   </tr>   
 </table>
