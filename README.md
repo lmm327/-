@@ -103,7 +103,6 @@
 </table>
 </div>
   &emsp;&emsp;1984年，中国电脑的发源地，也组建了一家“中科院计算所公司”，这就是后来更名为“联想”的企业集团。“联想” 领头人柳传志带领11名员工艰苦创业，从生产汉卡开始，继而转向研制高质量的个人电脑，步步紧跟着电脑更新换代的世界潮流--联想386、联想486，直到发展为奔腾系列的联想电脑产品。<br>
-  <div align=center>
 <table>
   <tr>
       <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/386.png"></div>
@@ -112,7 +111,6 @@
        <div align=center>联想486</div>
   </tr>   
 </table>
-</div>
 
 ## 1986-1990年
    &emsp;&emsp;1986年3月在邓小平同志关怀下，国家高技术发展计划即“863”计划启动。<br>
