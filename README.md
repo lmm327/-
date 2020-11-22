@@ -144,7 +144,7 @@
 <div align=center>
 <table>
   <tr>
-      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/%E9%BE%99%E8%8A%AF.jpg"><br>
+      <td ><div align=center><img src="https://raw.githubusercontent.com/lmm327/hello/main/%E9%BE%99%E8%8A%AF.jpg" width="50%" height="50%"><br>
         <div align=center>龙芯芯片</div>
   </tr>   
 </table>
